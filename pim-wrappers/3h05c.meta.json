@@ -1,0 +1,20 @@
+{
+  "iri": "3h05c",
+  "projectIri": "3h05c",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "time"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-03-19T17:58:11.101Z",
+    "modificationDate": "2026-03-19T17:58:28.659Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-19T17:58:35.960Z",
+  "_exportedBy": "http://localhost:3100"
+}

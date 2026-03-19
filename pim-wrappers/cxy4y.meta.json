@@ -1,0 +1,20 @@
+{
+  "iri": "cxy4y",
+  "projectIri": "cxy4y",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "SKOS Simple Knowledge Organization System"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-03-19T17:58:12.094Z",
+    "modificationDate": "2026-03-19T17:58:28.845Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-19T17:58:35.966Z",
+  "_exportedBy": "http://localhost:3100"
+}

@@ -1,0 +1,23 @@
+{
+  "iri": "3848a409-5ebe-450d-9ec6-17cc31680475",
+  "projectIri": "3848a409-5ebe-450d-9ec6-17cc31680475",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "DCAT Default Application Profile"
+    },
+    "description": {
+      "en": "Semantic model for the vocabulary"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-03-19T17:58:10.379Z",
+    "modificationDate": "2026-03-19T17:58:28.604Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-19T17:58:35.959Z",
+  "_exportedBy": "http://localhost:3100"
+}

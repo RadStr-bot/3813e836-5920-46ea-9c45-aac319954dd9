@@ -1,0 +1,22 @@
+{
+  "iri": "3813e836-5920-46ea-9c45-aac319954dd9",
+  "projectIri": "3813e836-5920-46ea-9c45-aac319954dd9",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "DCAT 3 Default Application Profile",
+      "cs": "Výchozí aplikační profil DCAT 3"
+    },
+    "description": {}
+  },
+  "metadata": {
+    "creationDate": "2026-03-19T17:58:09.791Z",
+    "modificationDate": "2026-03-19T17:58:29.940Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-19T17:58:35.980Z",
+  "_exportedBy": "http://localhost:3100"
+}

@@ -1,0 +1,20 @@
+{
+  "iri": "xe1mi",
+  "projectIri": "xe1mi",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "DCAT - Data Catalog Vocabulary"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-03-19T17:58:13.850Z",
+    "modificationDate": "2026-03-19T17:58:29.837Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-19T17:58:35.978Z",
+  "_exportedBy": "http://localhost:3100"
+}

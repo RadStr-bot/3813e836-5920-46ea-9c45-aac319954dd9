@@ -1,0 +1,16 @@
+{
+  "iri": "9z0nki",
+  "projectIri": "9z0nki",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {},
+  "metadata": {
+    "creationDate": "2026-03-19T17:58:11.727Z",
+    "modificationDate": "2026-03-19T17:58:28.803Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-19T17:58:35.964Z",
+  "_exportedBy": "http://localhost:3100"
+}

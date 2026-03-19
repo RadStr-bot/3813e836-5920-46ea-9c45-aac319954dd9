@@ -1,0 +1,20 @@
+{
+  "iri": "kiqjdj",
+  "projectIri": "kiqjdj",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "FOAF (Friend of a Friend) Vocabulary"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-03-19T17:58:12.560Z",
+    "modificationDate": "2026-03-19T17:58:28.936Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-19T17:58:35.970Z",
+  "_exportedBy": "http://localhost:3100"
+}

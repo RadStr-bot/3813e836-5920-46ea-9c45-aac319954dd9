@@ -1,0 +1,20 @@
+{
+  "iri": "y84uh",
+  "projectIri": "y84uh",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "prov-o"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-03-19T17:58:14.065Z",
+    "modificationDate": "2026-03-19T17:58:29.927Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-19T17:58:35.980Z",
+  "_exportedBy": "http://localhost:3100"
+}

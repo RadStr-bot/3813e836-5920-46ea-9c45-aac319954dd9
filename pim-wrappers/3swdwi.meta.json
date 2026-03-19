@@ -1,0 +1,20 @@
+{
+  "iri": "3swdwi",
+  "projectIri": "3swdwi",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "adms"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-03-19T17:58:11.348Z",
+    "modificationDate": "2026-03-19T17:58:28.710Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-19T17:58:35.962Z",
+  "_exportedBy": "http://localhost:3100"
+}

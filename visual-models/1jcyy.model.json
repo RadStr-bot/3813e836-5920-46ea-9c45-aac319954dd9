@@ -1,0 +1,388 @@
+{
+  "identifier": "1jcyy",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "3848a409-5ebe-450d-9ec6-17cc31680475",
+      "color": "#ff848b",
+      "identifier": "c4y8k"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "8xk6m",
+      "color": "#8fab5c",
+      "identifier": "79zqo"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "cxy4y",
+      "color": "#ff848b",
+      "identifier": "oqgta"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "xe1mi",
+      "color": "#1effbc",
+      "identifier": "omic"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "kiqjdj",
+      "color": "#d4f2d2",
+      "identifier": "0484b"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "m2zr1",
+      "color": "#ff70a6",
+      "identifier": "0szhu"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "lqss7",
+      "color": "#4dc9ab",
+      "identifier": "gsxvk"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "y84uh",
+      "color": "#4dc9ab",
+      "identifier": "sjmma"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "oul2b",
+      "color": "#8da266",
+      "identifier": "pub5m"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "3swdwi",
+      "color": "#d4f2d2",
+      "identifier": "wsmy2"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "d5cch",
+      "color": "#fc440f",
+      "identifier": "eg9ig"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "3h05c",
+      "color": "#fc440f",
+      "identifier": "98rf8"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "piljx",
+      "color": "#8da266",
+      "identifier": "59suw"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "kol19",
+      "color": "#d4f2d2",
+      "identifier": "mspexf"
+    },
+    {
+      "identifier": "1jcyy-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "Main classes"
+      }
+    },
+    {
+      "model": "xe1mi",
+      "representedEntity": "http://www.w3.org/ns/dcat#Catalog",
+      "position": {
+        "x": 310,
+        "y": 280
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "y3u1q"
+    },
+    {
+      "model": "xe1mi",
+      "representedRelationship": "http://www.w3.org/ns/dcat#catalog",
+      "waypoints": [],
+      "visualSource": "y3u1q",
+      "visualTarget": "y3u1q",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "eau5oh"
+    },
+    {
+      "model": "xe1mi",
+      "representedEntity": "http://www.w3.org/ns/dcat#CatalogRecord",
+      "position": {
+        "x": 310,
+        "y": 50
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "ljft4"
+    },
+    {
+      "model": "xe1mi",
+      "representedRelationship": "http://www.w3.org/ns/dcat#record",
+      "waypoints": [],
+      "visualSource": "y3u1q",
+      "visualTarget": "ljft4",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "hlguq"
+    },
+    {
+      "model": "xe1mi",
+      "representedEntity": "http://www.w3.org/ns/dcat#DataService",
+      "position": {
+        "x": 400,
+        "y": 520
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "56216"
+    },
+    {
+      "model": "xe1mi",
+      "representedRelationship": "http://www.w3.org/ns/dcat#service",
+      "waypoints": [],
+      "visualSource": "y3u1q",
+      "visualTarget": "56216",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "9mur9"
+    },
+    {
+      "model": "xe1mi",
+      "representedEntity": "http://www.w3.org/ns/dcat#Dataset",
+      "position": {
+        "x": 850,
+        "y": 280
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "31b7p"
+    },
+    {
+      "model": "xe1mi",
+      "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23Catalog&toIri=http%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23Dataset",
+      "waypoints": [],
+      "visualSource": "y3u1q",
+      "visualTarget": "31b7p",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "xxpi3"
+    },
+    {
+      "model": "xe1mi",
+      "representedRelationship": "http://www.w3.org/ns/dcat#servesDataset",
+      "waypoints": [],
+      "visualSource": "56216",
+      "visualTarget": "31b7p",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "ydexuh"
+    },
+    {
+      "model": "xe1mi",
+      "representedRelationship": "http://www.w3.org/ns/dcat#dataset",
+      "waypoints": [],
+      "visualSource": "y3u1q",
+      "visualTarget": "31b7p",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "gp5qr"
+    },
+    {
+      "model": "xe1mi",
+      "representedEntity": "http://www.w3.org/ns/dcat#DatasetSeries",
+      "position": {
+        "x": 850,
+        "y": 520
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "gsjval"
+    },
+    {
+      "model": "xe1mi",
+      "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23DatasetSeries&toIri=http%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23Dataset",
+      "waypoints": [],
+      "visualSource": "gsjval",
+      "visualTarget": "31b7p",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "7lfdg"
+    },
+    {
+      "model": "xe1mi",
+      "representedEntity": "http://www.w3.org/ns/dcat#Distribution",
+      "position": {
+        "x": 1170,
+        "y": 420
+      },
+      "content": [
+        "http://www.w3.org/ns/dcat#byteSize"
+      ],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "0s8yg"
+    },
+    {
+      "model": "xe1mi",
+      "representedRelationship": "http://www.w3.org/ns/dcat#distribution",
+      "waypoints": [],
+      "visualSource": "31b7p",
+      "visualTarget": "0s8yg",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "7vxtp"
+    },
+    {
+      "model": "xe1mi",
+      "representedEntity": "http://www.w3.org/ns/dcat#Relationship",
+      "position": {
+        "x": 1170,
+        "y": 160
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "2hrxo"
+    },
+    {
+      "model": "xe1mi",
+      "representedEntity": "http://www.w3.org/ns/dcat#Resource",
+      "position": {
+        "x": 850,
+        "y": 50
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "r42zj"
+    },
+    {
+      "model": "xe1mi",
+      "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23Dataset&toIri=http%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23Resource",
+      "waypoints": [],
+      "visualSource": "31b7p",
+      "visualTarget": "r42zj",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "gdwne"
+    },
+    {
+      "model": "xe1mi",
+      "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23DataService&toIri=http%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23Resource",
+      "waypoints": [],
+      "visualSource": "56216",
+      "visualTarget": "r42zj",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "6b3e4"
+    },
+    {
+      "model": "xe1mi",
+      "representedRelationship": "http://www.w3.org/ns/dcat#resource",
+      "waypoints": [],
+      "visualSource": "y3u1q",
+      "visualTarget": "r42zj",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "4ed0f"
+    },
+    {
+      "model": "xe1mi",
+      "representedRelationship": "http://www.w3.org/ns/dcat#qualifiedRelation",
+      "waypoints": [],
+      "visualSource": "r42zj",
+      "visualTarget": "2hrxo",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "90lyd"
+    },
+    {
+      "model": "xe1mi",
+      "representedEntity": "http://www.w3.org/ns/dcat#Role",
+      "position": {
+        "x": 1170,
+        "y": 50
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "880oe"
+    }
+  ]
+}
